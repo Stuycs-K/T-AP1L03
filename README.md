@@ -1,4 +1,3 @@
-![CI](https://github.com/stuycs-k/AP1L03-T/actions/workflows/ci.yml/badge.svg)
 
 # Lab03 Classes /w more Kitty
   
