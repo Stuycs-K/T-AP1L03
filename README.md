@@ -27,9 +27,10 @@
       <p>After all of the above methods work try adding this method to the Kitty class: <code>public String toString()</code> </p>
       <p>toString returns "The amazing XXX" where you replace XXX with the Cat's name</p>
     </li>
-    <li><p>Create a text file <code>answers.txt</code>code> where you answer the following questions:</p>
+    <li><p>Create a text file <code>answers.txt</code>code> where you answer the following questions :</p>
       <p>I. What is your name?</p>
       <p>II. What changes when you run the main after writing toString?</p>
       <p>III. What does this suggest about what happens when you print an object?</p></li>
+      <p>Format your answers with exactly two commas: "Last First, WHAT CHANGES, WHAT DOES IT SUGGEST" e.g. "Lee Spike, Nothing Changes at all, I probably did something wrong"</p>
   </ol>
 
