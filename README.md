@@ -31,6 +31,6 @@
       <p>I. What is your name?</p>
       <p>II. What changes when you run the main after writing toString?</p>
       <p>III. What does this suggest about what happens when you print an object?</p></li>
-      <p>Format your answers with exactly two commas: "Last First, WHAT CHANGES, WHAT DOES IT SUGGEST" e.g. "Lee Spike, Nothing Changes at all, I probably did something wrong"</p>
+      <p>Format your answers with exactly two commas: <code>"Last First, WHAT CHANGES, WHAT DOES IT SUGGEST"</code> e.g. <code>"Lee Spike, Nothing Changes at all, I probably did something wrong"</code> </p>
   </ol>
 
