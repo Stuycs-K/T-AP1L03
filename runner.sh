@@ -12,7 +12,7 @@ RESET="\033[0m"
 #ADD TESTS HERE
 
 ################# FILES THAT NEED COMPILE - TRY TO COMPILE #############
-required_files=("Kitty.java" "Driver.java" ")
+required_files=("Kitty.java" "Driver.java")
 for file in "${required_files[@]}"; do
   if [ -f "$file" ]; then
     echo -e "${GREEN}✅$file found${RESET}"
